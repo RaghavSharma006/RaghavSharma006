@@ -6,7 +6,6 @@
   📩 <strong>Email:</strong> raghav007ff@gmail.com
 </p>
 <br>
-<br>
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/raghav-sharma-rs007" target="_blank">
@@ -18,8 +17,6 @@
   </a>
 </p>
 <br>
-<br>
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <table align="center">
@@ -47,14 +44,12 @@
   </tr>
 </table>
 <br>
-<br>
 <h2 align="center">📊 GitHub Insights</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsharma006&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+<p align="center" style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=raghavsharma006&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsharma006&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
-<br>
 <h2 align="center">👀 Profile Views</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavsharma006&color=brightgreen" alt="Profile Views">
