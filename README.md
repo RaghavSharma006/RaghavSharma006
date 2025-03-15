@@ -54,3 +54,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raghavsharma006&color=brightgreen" alt="Profile Views">
 </p>
+
+![snake gif](https://github.com/RaghavSharma006/RaghavSharma006/blob/output/github-contribution-grid-snake.svg)
