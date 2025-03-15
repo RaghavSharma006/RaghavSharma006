@@ -55,4 +55,10 @@
   <img src="https://komarev.com/ghpvc/?username=raghavsharma006&color=brightgreen" alt="Profile Views">
 </p>
 
-![snake gif](https://github.com/RaghavSharma006/RaghavSharma006/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaghavSharma006/RaghavSharma006/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaghavSharma006/RaghavSharma006/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RaghavSharma006/RaghavSharma006/output/github-snake.svg" />
+  </picture>
+</div>
