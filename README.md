@@ -52,7 +52,7 @@
 </p>
 <h2 align="center">👀 Profile Views</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RaghavSharma006&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=raghavsharma006&color=brightgreen" alt="Profile Views">
 </p>
 
 <div align="center">
